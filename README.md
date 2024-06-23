@@ -6,4 +6,4 @@
 
 ## Traffic Accidents Data (TAD)
 
-[TAD Source](https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars) 2020
+[TAD Source](https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars) (2020)
